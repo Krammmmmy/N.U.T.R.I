@@ -141,7 +141,7 @@ a {
   color: white;
 }                                                                                                                                                                                                                                                                                            }
 button,
-#download,
+#download h2,
 nav ul li,
 section p {
     position: relative; /* Ensure z-index works */
