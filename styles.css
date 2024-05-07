@@ -140,10 +140,3 @@ section p {
 a {
   color: white;
 }                                                                                                                                                                                                                                                                                            }
-button,
-#download h2,
-nav ul li,
-section p {
-    position: relative; /* Ensure z-index works */
-    z-index: 1; /* Ensure buttons and IDs appear above background */
-}      
