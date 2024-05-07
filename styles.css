@@ -135,12 +135,9 @@ section p {
     background-color: #397a3c;
 }
 
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-                                                                                                                                                                                                                                                                                            }
+a {
+  color: white;
+}                                                                                                                                                                                                                                                                                            }
 button,
 #download,
 nav ul li,
