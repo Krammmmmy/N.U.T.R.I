@@ -119,6 +119,7 @@ section p {
 
 #download {
     text-align: center;
+    curser: pointer;
 }
 
 .download-button {
